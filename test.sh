@@ -3,5 +3,5 @@ date
 echo "calender of month:"
 cal
 echo "my git auto test"
-echo "hello"
+echo "hello my name is niraj kumar"
 
